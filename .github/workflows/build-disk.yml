@@ -28,7 +28,7 @@ env:
   IMAGE_NAME: "jupiter-kinoite" # output of build.yml, keep in sync
   IMAGE_REGISTRY: "ghcr.io/${{ github.repository_owner }}" # do not edit
   DEFAULT_TAG: "stable"
-  BIB_IMAGE: "ghcr.io/osbuild/bootc-image-builder:latest" # "quay.io/centos-bootc/bootc-image-builder:latest" - see https://github.com/osbuild/bootc-image-builder/pull/954
+  BIB_IMAGE: "ghcr.io/jupiterdom/bootc-image-builder:latest" # "quay.io/centos-bootc/bootc-image-builder:latest" - see https://github.com/osbuild/bootc-image-builder/pull/954
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref || github.run_id }}
