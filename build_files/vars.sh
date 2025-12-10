@@ -7,7 +7,7 @@ FEDORA_MAJOR_VERSION="43"
 
 vars=(
   BASE_IMAGE_NAME="kinoite"
-  IMAGE_NAME="Jupiter-kinoite"
+  IMAGE_NAME="jupiter-kinoite"
   IMAGE_PRETTY_NAME="Jupiter"
   CODE_NAME="Jupiter-terraformed"
   IMAGE_LIKE="fedora"
