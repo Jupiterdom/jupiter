@@ -33,9 +33,6 @@ PACKAGES=(
 
 dnf5 install -y "${PACKAGES[@]}"
 
-### Copy files to system
-rsync -rvKl /ctx/system_files/ /
-
 ### Install starship
 curl -L "https://github.com/starship/starship/releases/latest/download/starship-x86_64-unknown-linux-gnu.tar.gz" --retry 3 -o /tmp/starship.tar.gz
 tar -xzf /tmp/starship.tar.gz -C /tmp

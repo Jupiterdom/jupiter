@@ -1,0 +1,5 @@
+[KDE]
+LookAndFeelPackage=jupiterdom.jupitor.desktop
+SingleClick=false
+ColorScheme=BreezeDark
+widgetStyle=Breeze

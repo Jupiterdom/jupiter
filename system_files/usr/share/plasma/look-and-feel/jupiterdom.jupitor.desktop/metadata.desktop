@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=Jupiter - Theme based on breeze dark
+Name=Jupiter
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Jupiterdom
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Name=jupiterdom.jupitor.desktop
+X-KDE-PluginInfo-Version=0.01
+X-KDE-PluginInfo-Website=https://github.com/Jupiterdom
+X-Plasma-MainScript=defaults
+X-KDE-PluginInfo-License=GPLv2+

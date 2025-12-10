@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Jupiterdom"
+            }
+        ],
+        "Category": "",
+        "Description": "Jupiter - Modified version of breeze dark",
+        "Id": "jupiterdom.jupitor.desktop",
+        "License": "GPLv2+",
+        "Name": "Jupiter",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.00",
+        "Website": "https://github.com/Jupiterdom"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-MainScript": "defaults"
+}
